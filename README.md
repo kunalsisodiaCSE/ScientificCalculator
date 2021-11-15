@@ -1,6 +1,9 @@
 # ScientificCalculator
 This repository is about my python project in subject INT213.
 
+************************************************************************************************************************************************
+
+
 
 **LIBRARIES**:-
 
@@ -10,7 +13,7 @@ NumPy is a general-purpose array-processing package. It provides a high- perform
 As the whole project is based on whole complex stats ,we will use this fast calculations and provide results.
 
 
-_MATH_:
+_Math_:
 
 The Python Math Library provides us access to some common math functions and constants in Python, which we can use throughout our code for more complex mathematical computations. The library is a built-in Python module, therefore you don't have to do any installation to use
 
@@ -25,6 +28,9 @@ Now, let's build a very simple GUI with the help of Tkinter and understand it wi
 ![image](https://user-images.githubusercontent.com/71686673/141740018-3496665a-4a0b-4e27-914b-7d222820996e.png)
 
 
+************************************************************************************************************************************************
+************************************************************************************************************************************************
+
 
 **Widgets**:
 Widgets are similar in spirit to elements in HTML. You will find different types of widgets for different types of elements in the Tkinter. They are standard GUI elements and provide the user with controls like buttons, text, menus, and text boxes.
@@ -37,12 +43,22 @@ Syntax: button_widget = tk.Button(widget, option=placeholder) where widget is th
 2.grid(): It organizes the widgets in a table-like structure. 
 
 
+************************************************************************************************************************************************
+************************************************************************************************************************************************
+
+
+
+
 **_SCREENSHOTS_**:
 
 	**CALCULATOR VIEW**:
 
 
   ![image](https://user-images.githubusercontent.com/71686673/141740156-f20121ea-5b33-444c-9ef8-53af3eb97018.png)
+
+
+
+
 
  **MODULUS FUNCTION:**
 
@@ -54,7 +70,10 @@ Steps:
 1.	91 will be divided 30 times by 3 and leave a remainder 1.
 
 2.  The Div function will return the remainder part i.e., ‘1’.
- 
+
+
+
+
 . **DIV FUNCTION (	//	)**:
  
  ![image](https://user-images.githubusercontent.com/71686673/141740476-d8143e16-ffc2-4102-95e5-61d533793c38.png)
@@ -62,10 +81,15 @@ Steps:
 
  
 
+
+
 	**FACTORIAL FUNCTION (	X!	)**:
  
  ![image](https://user-images.githubusercontent.com/71686673/141740512-ca58379b-ab6d-452e-b799-26c21e0843a9.png)
  ![image](https://user-images.githubusercontent.com/71686673/141740532-403239f6-f9e2-4c7b-b8b5-c1f7abf27902.png)
+
+
+
 
 
 	**SINE FUNCTION ( e  )**:
@@ -75,13 +99,19 @@ Steps:
  ![image](https://user-images.githubusercontent.com/71686673/141740572-1b78e7b2-64d3-46ea-b5e3-0cd64e799680.png)
 
   
-**	COSINE FUNCTION**:
+
+
+
+**COSINE FUNCTION**:
  
  ![image](https://user-images.githubusercontent.com/71686673/141740610-a435bea7-9141-45e6-88cd-c766eec0c2da.png)
  ![image](https://user-images.githubusercontent.com/71686673/141740631-3b15d9d2-0ce9-4d35-a4c0-be50cd8a48b9.png)
 
 
  
+
+
+
 	**TANGENT FUNCTION**:
 
 Tan 90= Not Defined or Infinity.
@@ -98,6 +128,10 @@ Tan 68=2.4750868534162964
 ![image](https://user-images.githubusercontent.com/71686673/141740715-a15641ef-180e-4d58-90eb-941ea5b42ea7.png)
  
  
+
+
+
+
 	**Division Multiplication Addition Subtraction **
 
 ![image](https://user-images.githubusercontent.com/71686673/141740732-425af03b-3c46-46d9-aeba-826eee90aa7e.png)
@@ -116,4 +150,6 @@ Steps:
 4.	10-10=0
 
 
+************************************************************************************************************************************************
+************************************************************************************************************************************************
 ************************************************************************************************************************************************
