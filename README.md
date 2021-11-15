@@ -94,7 +94,6 @@ Steps:
 
 	**SINE FUNCTION ( e  )**:
  
- 
  ![image](https://user-images.githubusercontent.com/71686673/141740546-1d0b853a-a709-4834-a92c-2fcec54bfb03.png)
  ![image](https://user-images.githubusercontent.com/71686673/141740572-1b78e7b2-64d3-46ea-b5e3-0cd64e799680.png)
 
@@ -132,7 +131,7 @@ Tan 68=2.4750868534162964
 
 
 
-	**Division Multiplication Addition Subtraction **
+	**Division Multiplication Addition Subtraction**
 
 ![image](https://user-images.githubusercontent.com/71686673/141740732-425af03b-3c46-46d9-aeba-826eee90aa7e.png)
 ![image](https://user-images.githubusercontent.com/71686673/141740741-079eeb78-819f-46a6-ba98-7f26a6c4d427.png)
@@ -152,4 +151,81 @@ Steps:
 
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
-************************************************************************************************************************************************
+
+
+
+
+**Machine Learning**:-
+
+Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of Computer Programs that can change when exposed to new data.
+
+**Supervised Learnin**g:-
+•		Supervised learning is the machine learning task of learning a function that maps an input to an
+output based on example input-output pairs. 
+It infers a function from labeled training data consisting of a set of training examples.
+
+
+
+
+**Setup Environment:**
+Before executing the commands directly,
+User needs to install the following libraries into the program folder path.
+_Step1_:
+Open the code folder by right clicking and click on “Open in VS CODE” //or any respective editor.
+
+![image](https://user-images.githubusercontent.com/71686673/141741954-cb8b7023-412c-4f99-b9e5-4573079122c9.png)
+
+
+_Step2_:
+Once it is open upgrade the pip version.
+“python -m pip install --upgrade pip”
+
+![image](https://user-images.githubusercontent.com/71686673/141741993-66e9ffe0-1e52-4d40-b7e6-4bd242f903c0.png)
+
+
+_Step3_:
+Now install numpy
+“pip install numpy”
+
+![image](https://user-images.githubusercontent.com/71686673/141742086-d0e8095f-371b-493f-ac87-20c36cfb44cb.png)
+
+
+
+_Step4_:
+Run the program by clicking play button at the top or using keys:
+Ctrl + Alt + N.
+Or
+If you are using command line prompt use “python file_name.py”
+
+
+
+
+**CONCLUSION**:
+
+_It is our team’s hope that this document will be of huge help with understanding of our little project as we have used a different approach which has proved beneficial for us and easy for us to understand the vast ocean that is Python Programming_.
+
+_The results by this scientific calculator are approximately equal as per the modules.
+_
+_Still there are many functions which are not included in this programme, we will work forward to increase the number of functions with accurate answers little by little_.
+
+
+
+
+
+**References**:
+
+To conduct this project the following tools have been used:
+
+I.	VS Code Editor : Download Visual Studio Code - Mac, Linux, Windows
+II.	_Numpy_ (Library) :  http://www.numpy.org/
+
+
+1.1	 _Youtube_: 
+We have used the concepts from YouTube side by side for this project.
+https://www.youtube.com/
+
+
+1.2	 _StackOverFlow_:
+To clear our doubts and errors we have used this website.
+Stack Overflow - https://stackoverflow.com/
+
