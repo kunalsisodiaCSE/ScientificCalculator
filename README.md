@@ -37,51 +37,52 @@ Syntax: button_widget = tk.Button(widget, option=placeholder) where widget is th
 2.grid(): It organizes the widgets in a table-like structure. 
 
 
-**SCREENSHOTS**:
+**_SCREENSHOTS_**:
 
-	_CALCULATOR VIEW_:
+	**CALCULATOR VIEW**:
 
 
   ![image](https://user-images.githubusercontent.com/71686673/141740156-f20121ea-5b33-444c-9ef8-53af3eb97018.png)
 
-2	MODULUS FUNCTION:
+ **MODULUS FUNCTION:**
 
 
- .     ![image](https://user-images.githubusercontent.com/71686673/141740186-b46a7006-9a00-4661-ade9-a29825887117.png)
-       ![image](https://user-images.githubusercontent.com/71686673/141740194-4ca41dd9-87dd-4cfe-9b90-87dd6ac70406.png)
+![image](https://user-images.githubusercontent.com/71686673/141740186-b46a7006-9a00-4661-ade9-a29825887117.png)
+![image](https://user-images.githubusercontent.com/71686673/141740194-4ca41dd9-87dd-4cfe-9b90-87dd6ac70406.png)
 
-            Steps:
+Steps:
 1.	91 will be divided 30 times by 3 and leave a remainder 1.
+
 2.  The Div function will return the remainder part i.e., ‘1’.
  
-3. DIV FUNCTION (	//	):
+. **DIV FUNCTION (	//	)**:
  
  ![image](https://user-images.githubusercontent.com/71686673/141740476-d8143e16-ffc2-4102-95e5-61d533793c38.png)
  ![image](https://user-images.githubusercontent.com/71686673/141740492-876567ac-bf2d-4e51-a8c8-5817ae79157e.png)
 
  
 
-	FACTORIAL FUNCTION (	X!	):
+	**FACTORIAL FUNCTION (	X!	)**:
  
  ![image](https://user-images.githubusercontent.com/71686673/141740512-ca58379b-ab6d-452e-b799-26c21e0843a9.png)
  ![image](https://user-images.githubusercontent.com/71686673/141740532-403239f6-f9e2-4c7b-b8b5-c1f7abf27902.png)
 
 
-	SINE FUNCTION ( e  ):
+	**SINE FUNCTION ( e  )**:
  
  
  ![image](https://user-images.githubusercontent.com/71686673/141740546-1d0b853a-a709-4834-a92c-2fcec54bfb03.png)
  ![image](https://user-images.githubusercontent.com/71686673/141740572-1b78e7b2-64d3-46ea-b5e3-0cd64e799680.png)
 
   
-	COSINE FUNCTION:
+**	COSINE FUNCTION**:
  
  ![image](https://user-images.githubusercontent.com/71686673/141740610-a435bea7-9141-45e6-88cd-c766eec0c2da.png)
  ![image](https://user-images.githubusercontent.com/71686673/141740631-3b15d9d2-0ce9-4d35-a4c0-be50cd8a48b9.png)
 
 
  
-	TANGENT FUNCTION:
+	**TANGENT FUNCTION**:
 
 Tan 90= Not Defined or Infinity.
 
@@ -91,11 +92,13 @@ Tan 90= Not Defined or Infinity.
 
          	
 Tan 68=2.4750868534162964
-          
-          ![image](https://user-images.githubusercontent.com/71686673/141740702-ba357de7-0521-48fe-88be-98d2dfa2b427.png)
-           ![image](https://user-images.githubusercontent.com/71686673/141740715-a15641ef-180e-4d58-90eb-941ea5b42ea7.png)
+
+
+![image](https://user-images.githubusercontent.com/71686673/141740702-ba357de7-0521-48fe-88be-98d2dfa2b427.png)
+![image](https://user-images.githubusercontent.com/71686673/141740715-a15641ef-180e-4d58-90eb-941ea5b42ea7.png)
  
-	Division Multiplication Addition Subtraction 
+ 
+	**Division Multiplication Addition Subtraction **
 
 ![image](https://user-images.githubusercontent.com/71686673/141740732-425af03b-3c46-46d9-aeba-826eee90aa7e.png)
 ![image](https://user-images.githubusercontent.com/71686673/141740741-079eeb78-819f-46a6-ba98-7f26a6c4d427.png)
@@ -103,7 +106,14 @@ Tan 68=2.4750868534162964
 
   
 Steps:
-2.	9/3=3
-3.	3*3=9
-4.	3+1=10
-5.	10-10=0
+
+1.	9/3=3
+
+2.	3*3=9
+
+3.	3+1=10
+
+4.	10-10=0
+
+
+************************************************************************************************************************************************
