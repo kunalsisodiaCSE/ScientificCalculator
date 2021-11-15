@@ -92,7 +92,7 @@ Steps:
 
 
 
-	**SINE FUNCTION ( e  )**:
+	**SINE FUNCTION**:
  
  ![image](https://user-images.githubusercontent.com/71686673/141740546-1d0b853a-a709-4834-a92c-2fcec54bfb03.png)
  ![image](https://user-images.githubusercontent.com/71686673/141740572-1b78e7b2-64d3-46ea-b5e3-0cd64e799680.png)
