@@ -1,18 +1,21 @@
 # ScientificCalculator
 This repository is about my python project in subject INT213.
-LIBRARIES:-
 
-Numpy:-
+
+**LIBRARIES**:-
+
+_Numpy_:-
 NumPy is a general-purpose array-processing package. It provides a high- performance multidimensional array object, and tools for working with these arrays.It is the fundamental package for scientific computing with Python.
 
 As the whole project is based on whole complex stats ,we will use this fast calculations and provide results.
 
 
-MATH:
+_MATH_:
 
 The Python Math Library provides us access to some common math functions and constants in Python, which we can use throughout our code for more complex mathematical computations. The library is a built-in Python module, therefore you don't have to do any installation to use
 
-Tkinter:
+
+_Tkinter_:
 
 Tkinter commonly comes bundled with Python, using Tk and is Python's standard GUI framework. It is famous for its simplicity and graphical user interface. It is open-source and available under the Python License.
 Note: Tkinter comes pre-installed with Python3, and you need not bother about installing it.
@@ -21,23 +24,29 @@ Now, let's build a very simple GUI with the help of Tkinter and understand it wi
 
 ![image](https://user-images.githubusercontent.com/71686673/141740018-3496665a-4a0b-4e27-914b-7d222820996e.png)
 
-Widgets:
+
+
+**Widgets**:
 Widgets are similar in spirit to elements in HTML. You will find different types of widgets for different types of elements in the Tkinter. They are standard GUI elements and provide the user with controls like buttons, text, menus, and text boxes.
 
-1.Button: Button widget has a property for switching on/off. When a user clicks the button, an event is triggered in the Tkinter .
+1.**Button**: Button widget has a property for switching on/off. When a user clicks the button, an event is triggered in the Tkinter .
 Syntax: button_widget = tk.Button(widget, option=placeholder) where widget is the parameter for the parent window/frame while option is a placeholder that can have various values like border-width, background color, height and width of widget.
 
-Geometry Management
+**Geometry Management**
 
 2.grid(): It organizes the widgets in a table-like structure. 
 
 
-SCREENSHOTS:
+**SCREENSHOTS**:
 
-	CALCULATOR VIEW:
+	_CALCULATOR VIEW_:
+
+
   ![image](https://user-images.githubusercontent.com/71686673/141740156-f20121ea-5b33-444c-9ef8-53af3eb97018.png)
 
 2	MODULUS FUNCTION:
+
+
  .     ![image](https://user-images.githubusercontent.com/71686673/141740186-b46a7006-9a00-4661-ade9-a29825887117.png)
        ![image](https://user-images.githubusercontent.com/71686673/141740194-4ca41dd9-87dd-4cfe-9b90-87dd6ac70406.png)
 
@@ -47,26 +56,51 @@ SCREENSHOTS:
  
 3. DIV FUNCTION (	//	):
  
+ ![image](https://user-images.githubusercontent.com/71686673/141740476-d8143e16-ffc2-4102-95e5-61d533793c38.png)
+ ![image](https://user-images.githubusercontent.com/71686673/141740492-876567ac-bf2d-4e51-a8c8-5817ae79157e.png)
+
  
 
 	FACTORIAL FUNCTION (	X!	):
  
- 
+ ![image](https://user-images.githubusercontent.com/71686673/141740512-ca58379b-ab6d-452e-b799-26c21e0843a9.png)
+ ![image](https://user-images.githubusercontent.com/71686673/141740532-403239f6-f9e2-4c7b-b8b5-c1f7abf27902.png)
+
 
 	SINE FUNCTION ( e  ):
  
+ 
+ ![image](https://user-images.githubusercontent.com/71686673/141740546-1d0b853a-a709-4834-a92c-2fcec54bfb03.png)
+ ![image](https://user-images.githubusercontent.com/71686673/141740572-1b78e7b2-64d3-46ea-b5e3-0cd64e799680.png)
+
   
 	COSINE FUNCTION:
  
+ ![image](https://user-images.githubusercontent.com/71686673/141740610-a435bea7-9141-45e6-88cd-c766eec0c2da.png)
+ ![image](https://user-images.githubusercontent.com/71686673/141740631-3b15d9d2-0ce9-4d35-a4c0-be50cd8a48b9.png)
+
 
  
 	TANGENT FUNCTION:
+
 Tan 90= Not Defined or Infinity.
+
+
+![image](https://user-images.githubusercontent.com/71686673/141740664-a02b2fc8-098c-4bf0-a1a3-de8856119ccc.png)
+![image](https://user-images.githubusercontent.com/71686673/141740678-17af3786-c9e4-4489-9952-e793339f4ca5.png)
 
          	
 Tan 68=2.4750868534162964
           
+          ![image](https://user-images.githubusercontent.com/71686673/141740702-ba357de7-0521-48fe-88be-98d2dfa2b427.png)
+           ![image](https://user-images.githubusercontent.com/71686673/141740715-a15641ef-180e-4d58-90eb-941ea5b42ea7.png)
+ 
 	Division Multiplication Addition Subtraction 
+
+![image](https://user-images.githubusercontent.com/71686673/141740732-425af03b-3c46-46d9-aeba-826eee90aa7e.png)
+![image](https://user-images.githubusercontent.com/71686673/141740741-079eeb78-819f-46a6-ba98-7f26a6c4d427.png)
+
+
   
 Steps:
 2.	9/3=3
